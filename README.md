@@ -14,7 +14,7 @@
   </a>
   
   <a target="_blank" href="https://0e881a4d-7171-49bf-9649-c741d97b09bb.filesusr.com/ugd/83d72e_3b0b361f9a924a48aeff9e58dab1a640.pdf">
-    <img alt="Coverletter" src="https://img.shields.io/badge/-Coverletter-blue&?style=for-the-badge" />
+    <img alt="Coverletter" src="https://img.shields.io/badge/-Coverletter-blue?style=for-the-badge" />
   </a>
 
 <br>
