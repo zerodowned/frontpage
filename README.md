@@ -1,6 +1,6 @@
 <div>
   <a target="_blank" href = "C#"/>
-    <img alt="C#" src="https://img.shields.io/badge/-Csharp-61DAFB?logo=c#p&logoColor=white&style=flat-square/logoWidth=30" />
+    <img alt="C#" src="https://img.shields.io/badge/-Csharp-61DAFB?logo=c#&logoColor=white&style=flat-square/logoWidth=30" />
   </a>
 </div>
 
