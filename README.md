@@ -24,3 +24,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zerodowned&count_private=true&show_icons=true)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zerodowned)
+
