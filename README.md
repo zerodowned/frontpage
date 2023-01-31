@@ -1,8 +1,23 @@
 <div>
-  <a target="_blank" href = "C#"/>
-    <img alt="C#" src="https://img.shields.io/badge/-Csharp-61DAFB?logo=c#&logoColor=white&style=flat-square/logoWidth=30" />
+  Hello, I am <strong>Richard "zerodowned" N.</strong> and I am a <strong>software</strong> and <strong>game engineer</strong> from Pacific Northwest. I have a  background in retro 2D-isometic game emulation software. I enjoy working with following technologies <strong>C#, C++, Pythong, Java, </strong>
+</div>
+
+### Connect with me!
+ 
+<div>
+  <a target="_blank" href = "mailto: zerodowned@gmail.com"/>
+    <img alt="Email" src="https://img.shields.io/badge/email-%23FF0000.svg?style=for-the-badge&logoColor=white)" />
+  </a>
+  
+  <a target="_blank" href="https://0e881a4d-7171-49bf-9649-c741d97b09bb.filesusr.com/ugd/83d72e_7d0d8e5105e149f991168451dfe485c7.pdf">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-60B5CC?style=for-the-badge" />
+  </a>
+
+  <a target="_blank" href="https://www.linkedin.com/in/richard-n-183ab923b">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </div>
+
 
 
 ### Github stats
