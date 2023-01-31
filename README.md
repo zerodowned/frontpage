@@ -12,7 +12,13 @@
   <a target="_blank" href="https://0e881a4d-7171-49bf-9649-c741d97b09bb.filesusr.com/ugd/83d72e_7d0d8e5105e149f991168451dfe485c7.pdf">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-60B5CC?style=for-the-badge" />
   </a>
+  
+  <a target="_blank" href="https://0e881a4d-7171-49bf-9649-c741d97b09bb.filesusr.com/ugd/83d72e_3b0b361f9a924a48aeff9e58dab1a640.pdf">
+    <img alt="Coverletter" src="https://img.shields.io/badge/-Coverletter-blue&?style=for-the-badge" />
+  </a>
 
+<br>
+<br>
   <a target="_blank" href="https://www.linkedin.com/in/richard-n-183ab923b">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
