@@ -5,7 +5,6 @@
 ## Connect with me
  
 <div>
-<br>
   <a target="_blank" href="https://www.linkedin.com/in/richard-n-183ab923b">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
