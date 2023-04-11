@@ -5,17 +5,6 @@
 ## Connect with me
  
 <div>
-  <a target="_blank" href = "mailto: zerodowned@gmail.com"/>
-    <img alt="Email" src="https://img.shields.io/badge/email-%23FF0000.svg?style=for-the-badge&logoColor=white)" />
-  </a>
-  
-  <a target="_blank" href="https://0e881a4d-7171-49bf-9649-c741d97b09bb.filesusr.com/ugd/83d72e_7d0d8e5105e149f991168451dfe485c7.pdf">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-60B5CC?style=for-the-badge" />
-  </a>
-  
-  <a target="_blank" href="https://0e881a4d-7171-49bf-9649-c741d97b09bb.filesusr.com/ugd/83d72e_3b0b361f9a924a48aeff9e58dab1a640.pdf">
-    <img alt="Coverletter" src="https://img.shields.io/badge/-Coverletter-blue?style=for-the-badge" />
-  </a>
 
 <br>
 <br>
