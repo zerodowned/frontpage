@@ -1,5 +1,5 @@
 <div>
-  Hello, I am <strong>Richard "zerodowned" N.</strong> and I am a <strong>software</strong> and <strong>game engineer</strong> from the Pacific Northwest. I have a  background in retro 2D-isometic game emulation software. I enjoy working with the following technologies <strong>C#, C++, Python, Java,</strong> and always eager to learn new languages and software.
+  Hello, I am <strong>Richard "zerodowned" N.</strong> and I am a <strong>softwareengineer</strong> from the Pacific Northwest. I have a  background in retro 2D-isometic game emulation software. I enjoy working with the following technologies <strong>C#, C++, Python, Java,</strong> and always eager to learn new languages and software.
 </div>
 
 ## Connect with me
