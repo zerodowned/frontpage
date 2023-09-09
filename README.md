@@ -1,5 +1,15 @@
 <div>
-  Hello, I am <strong>Richard "zerodowned" N.</strong> and I am a <strong>software engineer</strong> from the Pacific Northwest. I have a  background in retro 2D-isometic game emulation software. I enjoy working with the following technologies <strong>C#, C++, Python, Java,</strong> and always eager to learn new languages and software.
+  Hello, I am <strong>Richard "zerodowned" N.</strong> and I am a software engineer from the Pacific Northwest.
+
+  As a highly self-motivated individual, I embrace challenges of any difficulty and possess a strong desire to learn new technologies and skills. With a knack for working both independently and collaboratively with
+teams,I am always happy to mentor my peers to achieve success together.
+
+Languages: C# (9 yr), .Net (9 yrs), C (2 yr), C++ (2 yr), Python (2 yr), Java (2 yr)
+
+Technologies: Windows Server, SQL Server, Serialization, SQL, GitHub, Agile, WPF, WinForms, Visual Studio,
+Unity
+
+Soft Skills: Teamwork, Leadership, Mentoring, Testing, Debugging, and Documentation of code
 </div>
 
 <!--## Github stats-->
