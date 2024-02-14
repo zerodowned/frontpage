@@ -1,9 +1,7 @@
 <div>
-Languages: C#, .Net, C, C++, Python, Java
-  
+Languages: C#, .Net, C, C++, Python, Java<br><br>
 Technologies: Windows Server, SQL Server, Serialization, SQL, GitHub, Agile, WPF, WinForms, Visual Studio,
-Unity
-
+Unity<br><br>
 Soft Skills: Teamwork, Leadership, Mentoring, Testing, Debugging, and Documentation of code
 </div>
 
