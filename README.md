@@ -1,7 +1,7 @@
 <div>
-**Languages:** C#, C++, .Net, C, Python, Java, SQL, XML<br><br>
-**Technical Expertise:** Unity, Windows Server, SQL Server, GitHub, Agile, WPF, WinForms, Visual Studio<br><br>
-**Soft Skills:** Teamwork, Leadership, Mentoring, Testing, Debugging, and Documentation of code<br><br>
+<b>Languages:</b> C#, C++, .Net, C, Python, Java, SQL, XML<br><br>
+<b>Technical Expertise:</b> Unity, Windows Server, SQL Server, GitHub, Agile, WPF, WinForms, Visual Studio<br><br>
+<b>Soft Skills:</b> Teamwork, Leadership, Mentoring, Testing, Debugging, and Documentation of code<br><br>
 </div>
 
 <!--## Github stats-->
