@@ -2,7 +2,10 @@
 <b>Languages:</b> C#, C++, .Net, C, Python, Java, SQL, XML<br><br>
 <b>Technical Expertise:</b> Unity, Windows Server, SQL Server, GitHub, Agile, WPF, WinForms, Visual Studio<br><br>
 <b>Soft Skills:</b> Teamwork, Leadership, Mentoring, Testing, Debugging, and Documentation of code<br><br>
+
+![](https://komarev.com/ghpvc/?username=zerodowned)
 </div>
+
 
 <!--## Github stats-->
 
